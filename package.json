@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/Zdubz7/New-Constructor-Hangman/issues"
   },
-  "homepage": "https://github.com/Zdubz7/New-Constructor-Hangman#readme"
+  "homepage": "https://github.com/Zdubz7/New-Constructor-Hangman#readme",
+  "dependencies": {
+    "inquirer": "^6.2.0",
+    "prompt": "^1.0.0",
+    "twitter": "^1.7.1"
+  }
 }
